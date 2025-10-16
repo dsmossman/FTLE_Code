@@ -35,3 +35,5 @@ codegen/
 # Extra folders/files
 /fillgaps_MAB_code
 *.mat
+*.png
+LCS-Tool-master/demo
