@@ -31,3 +31,7 @@ codegen/
 
 # Cloud based storage dotfile
 .MATLABDriveTag
+
+# Extra folders/files
+/fillgaps_MAB_code
+.mat
