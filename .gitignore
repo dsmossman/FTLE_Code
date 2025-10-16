@@ -34,4 +34,4 @@ codegen/
 
 # Extra folders/files
 /fillgaps_MAB_code
-.mat
+*.mat
