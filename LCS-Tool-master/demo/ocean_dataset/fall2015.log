@@ -1,0 +1,1399 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+                  R2019b (9.7.0.1190202) 64-bit (glnxa64)
+                              August 21, 2019
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+ input parameters successful>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4413 points; min(lambda2) = 1.8824e-20. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -7.4334e-16, max(prodCgStrainD) = 1.86067e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete01-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.766244e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.766244e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete02-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1542 points; min(lambda2) = 0.011516. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 3.60155e-12, max(prodCgStrainD) = 5.45489e+36] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed03-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.766249e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.766249e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete04-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1624 points; min(lambda2) = 0.016699. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 1.25039e-10, max(prodCgStrainD) = 2.64125e+27] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed05-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1675 points; min(lambda2) = 0.087677. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 2.91267e-10, max(prodCgStrainD) = 8.56987e+28] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed06-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 6885 points; min(lambda2) = 5.7327e-20. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.6363e-15, max(prodCgStrainD) = 5.96195e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete07-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1724 points; min(lambda2) = 0.089861. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 7.97256e-14, max(prodCgStrainD) = 2.30262e+178] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed08-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1777 points; min(lambda2) = 0.015848. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 4.65157e-12, max(prodCgStrainD) = 7.94102e+43] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed09-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1739 points; min(lambda2) = 0.023256. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 2.72803e-13, max(prodCgStrainD) = 4.12748e+29] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed10-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1587 points; min(lambda2) = 0.01394. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 5.21051e-11, max(prodCgStrainD) = 1.44615e+41] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed11-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1735 points; min(lambda2) = 0.039461. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 3.51433e-14, max(prodCgStrainD) = 5.63255e+33] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed12-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1811 points; min(lambda2) = 0.0029103. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 3.04715e-10, max(prodCgStrainD) = 6.97451e+36] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed13-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 6638 points; min(lambda2) = 3.5326e-21. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -7.162e-16, max(prodCgStrainD) = 1.51827e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete14-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5068 points; min(lambda2) = 2.2097e-11. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -4.75333e-15, max(prodCgStrainD) = 316814] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete15-Dec-2014
+ day complete, note enough data16-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.766280e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 5627 points; min(lambda2) = 1.6516e-15. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -2.38355e-15, max(prodCgStrainD) = 2.49201e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete17-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 6749 points; min(lambda2) = 5.7276e-26. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 0, max(prodCgStrainD) = 746093] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete18-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4364 points; min(lambda2) = 2.7703e-12. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.26483e-15, max(prodCgStrainD) = 1.25894e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete19-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4848 points; min(lambda2) = 1.1258e-10. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -8.35079e-16, max(prodCgStrainD) = 461116] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete20-Dec-2014
+ day complete, note enough data21-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.766292e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 4726 points; min(lambda2) = 5.6975e-15. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.26114e-14, max(prodCgStrainD) = 661211] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete22-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1720 points; min(lambda2) = 0.0012726. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 2.01533e-12, max(prodCgStrainD) = 2.03094e+29] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed23-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.766298e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 4544 points; min(lambda2) = 8.8473e-10. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.21604e-14, max(prodCgStrainD) = 465323] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete24-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.766299e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 6807 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 0, max(prodCgStrainD) = 1.16239e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete25-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.766302e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.766302e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete26-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.766305e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 3031 points; min(lambda2) = 8.068e-08. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 0, max(prodCgStrainD) = 535904] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete27-Dec-2014
+ day complete, note enough data28-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.766309e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.766309e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete29-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5391 points; min(lambda2) = 1.9017e-19. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -3.30543e-16, max(prodCgStrainD) = 571317] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete30-Dec-2014
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.766314e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 6819 points; min(lambda2) = 4.7564e-20. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -7.54828e-15, max(prodCgStrainD) = 662604] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete31-Dec-2014
+ day complete, note enough data01-Jan-2015
+ day complete, note enough data02-Jan-2015
+ day complete, note enough data03-Jan-2015
+ day complete, note enough data04-Jan-2015
+ day complete, note enough data05-Jan-2015
+ day complete, note enough data06-Jan-2015
+ day complete, note enough data07-Jan-2015
+ day complete, note enough data08-Jan-2015
+ day complete, note enough data09-Jan-2015
+ day complete, note enough data10-Jan-2015
+ day complete, note enough data11-Jan-2015
+ day complete, note enough data12-Jan-2015
+ day complete, note enough data13-Jan-2015
+ day complete, note enough data14-Jan-2015
+ day complete, note enough data15-Jan-2015
+ day complete, note enough data16-Jan-2015
+ day complete, note enough data17-Jan-2015
+ day complete, note enough data18-Jan-2015
+ day complete, note enough data19-Jan-2015
+ day complete, note enough data20-Jan-2015
+ day complete, note enough data21-Jan-2015
+ day complete, note enough data22-Jan-2015
+ day complete, note enough data23-Jan-2015
+ day complete, note enough data24-Jan-2015
+ day complete, note enough data25-Jan-2015
+ day complete, note enough data26-Jan-2015
+ day complete, note enough data27-Jan-2015
+ day complete, note enough data28-Jan-2015
+ day complete, note enough data29-Jan-2015
+ day complete, note enough data30-Jan-2015
+ day complete, note enough data31-Jan-2015
+ day complete, note enough data01-Feb-2015
+ day complete, note enough data02-Feb-2015
+ day complete, note enough data03-Feb-2015
+ day complete, note enough data04-Feb-2015
+ day complete, note enough data05-Feb-2015
+ day complete, note enough data06-Feb-2015
+ day complete, note enough data07-Feb-2015
+ day complete, note enough data08-Feb-2015
+ day complete, note enough data09-Feb-2015
+ day complete, note enough data10-Feb-2015
+ day complete, note enough data11-Feb-2015
+ day complete, note enough data12-Feb-2015
+ day complete, note enough data13-Feb-2015
+ day complete, note enough data14-Feb-2015
+ day complete, note enough data15-Feb-2015
+ day complete, note enough data16-Feb-2015
+ day complete, note enough data17-Feb-2015
+ day complete, note enough data18-Feb-2015
+ day complete, note enough data19-Feb-2015
+ day complete, note enough data20-Feb-2015
+ day complete, note enough data21-Feb-2015
+ day complete, note enough data22-Feb-2015
+ day complete, note enough data23-Feb-2015
+ day complete, note enough data24-Feb-2015
+ day complete, note enough data25-Feb-2015
+ day complete, note enough data26-Feb-2015
+ day complete, note enough data27-Feb-2015
+ day complete, note enough data28-Feb-2015
+ day complete, note enough data01-Mar-2015
+ day complete, note enough data02-Mar-2015
+ day complete, note enough data03-Mar-2015
+ day complete, note enough data04-Mar-2015
+ day complete, note enough data05-Mar-2015
+ day complete, note enough data06-Mar-2015
+ day complete, note enough data07-Mar-2015
+ day complete, note enough data08-Mar-2015
+ day complete, note enough data09-Mar-2015
+ day complete, note enough data10-Mar-2015
+ day complete, note enough data11-Mar-2015
+ day complete, note enough data12-Mar-2015
+ day complete, note enough data13-Mar-2015
+ day complete, note enough data14-Mar-2015
+ day complete, note enough data15-Mar-2015
+ day complete, note enough data16-Mar-2015
+ day complete, note enough data17-Mar-2015
+ day complete, note enough data18-Mar-2015
+ day complete, note enough data19-Mar-2015
+ day complete, note enough data20-Mar-2015
+ day complete, note enough data21-Mar-2015
+ day complete, note enough data22-Mar-2015
+ day complete, note enough data23-Mar-2015
+ day complete, note enough data24-Mar-2015
+ day complete, note enough data25-Mar-2015
+ day complete, note enough data26-Mar-2015
+ day complete, note enough data27-Mar-2015
+ day complete, note enough data28-Mar-2015
+ day complete, note enough data29-Mar-2015
+ day complete, note enough data30-Mar-2015
+ day complete, note enough data31-Mar-2015
+ day complete, note enough data01-Apr-2015
+ day complete, note enough data02-Apr-2015
+ day complete, note enough data03-Apr-2015
+ day complete, note enough data04-Apr-2015
+ day complete, note enough data05-Apr-2015
+ day complete, note enough data06-Apr-2015
+ day complete, note enough data07-Apr-2015
+ day complete, note enough data08-Apr-2015
+ day complete, note enough data09-Apr-2015
+ day complete, note enough data10-Apr-2015
+ day complete, note enough data11-Apr-2015
+ day complete, note enough data12-Apr-2015
+ day complete, note enough data13-Apr-2015
+ day complete, note enough data14-Apr-2015
+ day complete, note enough data15-Apr-2015
+ day complete, note enough data16-Apr-2015
+ day complete, note enough data17-Apr-2015
+ day complete, note enough data18-Apr-2015
+ day complete, note enough data19-Apr-2015
+ day complete, note enough data20-Apr-2015
+ day complete, note enough data21-Apr-2015
+ day complete, note enough data22-Apr-2015
+ day complete, note enough data23-Apr-2015
+ day complete, note enough data24-Apr-2015
+ day complete, note enough data25-Apr-2015
+ day complete, note enough data26-Apr-2015
+ day complete, note enough data27-Apr-2015
+ day complete, note enough data28-Apr-2015
+ day complete, note enough data29-Apr-2015
+ day complete, note enough data30-Apr-2015
+ day complete, note enough data01-May-2015
+ day complete, note enough data02-May-2015
+ day complete, note enough data03-May-2015
+ day complete, note enough data04-May-2015
+ day complete, note enough data05-May-2015
+ day complete, note enough data06-May-2015
+ day complete, note enough data07-May-2015
+ day complete, note enough data08-May-2015
+ day complete, note enough data09-May-2015
+ day complete, note enough data10-May-2015
+ day complete, note enough data11-May-2015
+ day complete, note enough data12-May-2015
+ day complete, note enough data13-May-2015
+ day complete, note enough data14-May-2015
+ day complete, note enough data15-May-2015
+ day complete, note enough data16-May-2015
+ day complete, note enough data17-May-2015
+ day complete, note enough data18-May-2015
+ day complete, note enough data19-May-2015
+ day complete, note enough data20-May-2015
+ day complete, note enough data21-May-2015
+ day complete, note enough data22-May-2015
+ day complete, note enough data23-May-2015
+ day complete, note enough data24-May-2015
+ day complete, note enough data25-May-2015
+ day complete, note enough data26-May-2015
+ day complete, note enough data27-May-2015
+ day complete, note enough data28-May-2015
+ day complete, note enough data29-May-2015
+ day complete, note enough data30-May-2015
+ day complete, note enough data31-May-2015
+ day complete, note enough data01-Jun-2015
+ day complete, note enough data02-Jun-2015
+ day complete, note enough data03-Jun-2015
+ day complete, note enough data04-Jun-2015
+ day complete, note enough data05-Jun-2015
+ day complete, note enough data06-Jun-2015
+ day complete, note enough data07-Jun-2015
+ day complete, note enough data08-Jun-2015
+ day complete, note enough data09-Jun-2015
+ day complete, note enough data10-Jun-2015
+ day complete, note enough data11-Jun-2015
+ day complete, note enough data12-Jun-2015
+ day complete, note enough data13-Jun-2015
+ day complete, note enough data14-Jun-2015
+ day complete, note enough data15-Jun-2015
+ day complete, note enough data16-Jun-2015
+ day complete, note enough data17-Jun-2015
+ day complete, note enough data18-Jun-2015
+ day complete, note enough data19-Jun-2015
+ day complete, note enough data20-Jun-2015
+ day complete, note enough data21-Jun-2015
+ day complete, note enough data22-Jun-2015
+ day complete, note enough data23-Jun-2015
+ day complete, note enough data24-Jun-2015
+ day complete, note enough data25-Jun-2015
+ day complete, note enough data26-Jun-2015
+ day complete, note enough data27-Jun-2015
+ day complete, note enough data28-Jun-2015
+ day complete, note enough data29-Jun-2015
+ day complete, note enough data30-Jun-2015
+ day complete, note enough data01-Jul-2015
+ day complete, note enough data02-Jul-2015
+ day complete, note enough data03-Jul-2015
+ day complete, note enough data04-Jul-2015
+ day complete, note enough data05-Jul-2015
+ day complete, note enough data06-Jul-2015
+ day complete, note enough data07-Jul-2015
+ day complete, note enough data08-Jul-2015
+ day complete, note enough data09-Jul-2015
+ day complete, note enough data10-Jul-2015
+ day complete, note enough data11-Jul-2015
+ day complete, note enough data12-Jul-2015
+ day complete, note enough data13-Jul-2015
+ day complete, note enough data14-Jul-2015
+ day complete, note enough data15-Jul-2015
+ day complete, note enough data16-Jul-2015
+ day complete, note enough data17-Jul-2015
+ day complete, note enough data18-Jul-2015
+ day complete, note enough data19-Jul-2015
+ day complete, note enough data20-Jul-2015
+ day complete, note enough data21-Jul-2015
+ day complete, note enough data22-Jul-2015
+ day complete, note enough data23-Jul-2015
+ day complete, note enough data24-Jul-2015
+ day complete, note enough data25-Jul-2015
+ day complete, note enough data26-Jul-2015
+ day complete, note enough data27-Jul-2015
+ day complete, note enough data28-Jul-2015
+ day complete, note enough data29-Jul-2015
+ day complete, note enough data30-Jul-2015
+ day complete, note enough data31-Jul-2015
+ day complete, note enough data01-Aug-2015
+ day complete, note enough data02-Aug-2015
+ day complete, note enough data03-Aug-2015
+ day complete, note enough data04-Aug-2015
+ day complete, note enough data05-Aug-2015
+ day complete, note enough data06-Aug-2015
+ day complete, note enough data07-Aug-2015
+ day complete, note enough data08-Aug-2015
+ day complete, note enough data09-Aug-2015
+ day complete, note enough data10-Aug-2015
+ day complete, note enough data11-Aug-2015
+ day complete, note enough data12-Aug-2015
+ day complete, note enough data13-Aug-2015
+ day complete, note enough data14-Aug-2015
+ day complete, note enough data15-Aug-2015
+ day complete, note enough data16-Aug-2015
+ day complete, note enough data17-Aug-2015
+ day complete, note enough data18-Aug-2015
+ day complete, note enough data19-Aug-2015
+ day complete, note enough data20-Aug-2015
+ day complete, note enough data21-Aug-2015
+ day complete, note enough data22-Aug-2015
+ day complete, note enough data23-Aug-2015
+ day complete, note enough data24-Aug-2015
+ day complete, note enough data25-Aug-2015
+ day complete, note enough data26-Aug-2015
+ day complete, note enough data27-Aug-2015
+ day complete, note enough data28-Aug-2015
+ day complete, note enough data29-Aug-2015
+ day complete, note enough data30-Aug-2015
+ day complete, note enough data31-Aug-2015
+ day complete, note enough data01-Sep-2015
+ day complete, note enough data02-Sep-2015
+ day complete, note enough data03-Sep-2015
+ day complete, note enough data04-Sep-2015
+ day complete, note enough data05-Sep-2015
+ day complete, note enough data06-Sep-2015
+ day complete, note enough data07-Sep-2015
+ day complete, note enough data08-Sep-2015
+ day complete, note enough data09-Sep-2015
+ day complete, note enough data10-Sep-2015
+ day complete, note enough data11-Sep-2015
+ day complete, note enough data12-Sep-2015
+ day complete, note enough data13-Sep-2015
+ day complete, note enough data14-Sep-2015
+ day complete, note enough data15-Sep-2015
+ day complete, note enough data16-Sep-2015
+ day complete, note enough data17-Sep-2015
+ day complete, note enough data18-Sep-2015
+ day complete, note enough data19-Sep-2015
+ day complete, note enough data20-Sep-2015
+ day complete, note enough data21-Sep-2015
+ day complete, note enough data22-Sep-2015
+ day complete, note enough data23-Sep-2015
+ day complete, note enough data24-Sep-2015
+ day complete, note enough data25-Sep-2015
+ day complete, note enough data26-Sep-2015
+ day complete, note enough data27-Sep-2015
+ day complete, note enough data28-Sep-2015
+ day complete, note enough data29-Sep-2015
+ day complete, note enough data30-Sep-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.766971e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 9382 points; min(lambda2) = 3.66e-21. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.84732e-10, max(prodCgStrainD) = 4.14522e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete01-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 9050 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.0657e-10, max(prodCgStrainD) = 2.50509e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete02-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 10864 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.30851e-14, max(prodCgStrainD) = 5.04848e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete03-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 9385 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.16011e-11, max(prodCgStrainD) = 2.61957e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete04-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 10051 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -2.26787e-10, max(prodCgStrainD) = 4.13834e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete05-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 7392 points; min(lambda2) = 1.7487e-24. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -3.05601e-16, max(prodCgStrainD) = 2.89371e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete06-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 7336 points; min(lambda2) = 1.1131e-12. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.68862e-15, max(prodCgStrainD) = 514163] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete07-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5750 points; min(lambda2) = 1.2653e-17. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 9.84168e-18, max(prodCgStrainD) = 376703] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete08-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4502 points; min(lambda2) = 9.9421e-12. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 8.97209e-17, max(prodCgStrainD) = 427283] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete09-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.766993e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 4409 points; min(lambda2) = 7.6254e-17. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.81493e-18, max(prodCgStrainD) = 1.71387e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete10-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5300 points; min(lambda2) = 2.4005e-13. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 0, max(prodCgStrainD) = 472271] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete11-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4837 points; min(lambda2) = 1.8396e-11. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 5.54485e-19, max(prodCgStrainD) = 789849] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete12-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4590 points; min(lambda2) = 1.0518e-11. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 0, max(prodCgStrainD) = 367527] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete13-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767003e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 5895 points; min(lambda2) = 9.1179e-19. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 0, max(prodCgStrainD) = 731106] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete14-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4772 points; min(lambda2) = 2.7768e-15. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 1.8529e-16, max(prodCgStrainD) = 1.12448e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete15-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5886 points; min(lambda2) = 5.89e-13. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 0, max(prodCgStrainD) = 2.59894e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete16-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 7215 points; min(lambda2) = 2.6315e-11. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 0, max(prodCgStrainD) = 1.41185e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete17-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 6864 points; min(lambda2) = 1.8817e-24. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -9.5095e-17, max(prodCgStrainD) = 983248] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete18-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 9045 points; min(lambda2) = 9.1662e-21. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 0, max(prodCgStrainD) = 884702] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete19-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767017e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.767017e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete20-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 8266 points; min(lambda2) = 1.7784e-19. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 0, max(prodCgStrainD) = 959278] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete21-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 3783 points; min(lambda2) = 3.8395e-11. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -8.28623e-17, max(prodCgStrainD) = 336364] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete22-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4509 points; min(lambda2) = 8.5564e-10. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -4.54374e-16, max(prodCgStrainD) = 901550] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete23-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 8113 points; min(lambda2) = 6.3269e-14. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -4.29556e-16, max(prodCgStrainD) = 1.34549e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete24-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 6642 points; min(lambda2) = 7.0513e-13. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 5.12184e-17, max(prodCgStrainD) = 2.23211e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete25-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 7340 points; min(lambda2) = 4.6967e-25. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -3.02053e-15, max(prodCgStrainD) = 1.13685e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete26-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 8199 points; min(lambda2) = 1.7303e-14. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -2.1021e-16, max(prodCgStrainD) = 3.2605e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete27-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767037e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 8987 points; min(lambda2) = 4.7787e-13. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -2.35513e-16, max(prodCgStrainD) = 1.52619e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete28-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 8728 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.65233e-15, max(prodCgStrainD) = 1.22395e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete29-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767041e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 6963 points; min(lambda2) = 1.7591e-13. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -3.52728e-17, max(prodCgStrainD) = 940874] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete30-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 6583 points; min(lambda2) = 4.1662e-17. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 6.4322e-21, max(prodCgStrainD) = 1.86613e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete31-Oct-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4613 points; min(lambda2) = 5.9837e-12. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 9.30701e-17, max(prodCgStrainD) = 834544] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete01-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5988 points; min(lambda2) = 1.695e-11. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.34064e-15, max(prodCgStrainD) = 457686] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete02-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 6787 points; min(lambda2) = 1.5975e-13. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.69909e-15, max(prodCgStrainD) = 1.37836e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete03-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767053e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 7019 points; min(lambda2) = 2.5866e-17. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -3.658e-16, max(prodCgStrainD) = 1.95064e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete04-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767056e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 7908 points; min(lambda2) = 1.3572e-15. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.05964e-16, max(prodCgStrainD) = 1.42039e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete05-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767058e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.767058e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete06-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767060e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.767060e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete07-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767063e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.767064e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+[Warning: lambda2 < 1 at 10191 points; min(lambda2) = 6.1681e-13. Eigenvalues
+and eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -7.07838e-21, max(prodCgStrainD) = 661532] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete08-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767065e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.767065e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete09-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1306 points; min(lambda2) = 0.013483. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 4.04655e-09, max(prodCgStrainD) = 4.17507e+37] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed10-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767070e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.767070e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete11-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1544 points; min(lambda2) = 0.0040795. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 8.3647e-09, max(prodCgStrainD) = 7.58714e+192] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed12-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767075e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.767075e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete13-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767077e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.767077e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete14-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1479 points; min(lambda2) = 0.0077583. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 7.36385e-09, max(prodCgStrainD) = 3.71219e+147] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed15-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767082e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.767082e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete16-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767084e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.767084e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete17-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767087e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.767087e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete18-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767089e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 9540 points; min(lambda2) = 5.1164e-19. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -6.49758e-14, max(prodCgStrainD) = 783456] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete19-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1844 points; min(lambda2) = 0.0075307. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 5.43373e-11, max(prodCgStrainD) = 1.49785e+45] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed20-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1793 points; min(lambda2) = 0.01535. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 2.35206e-11, max(prodCgStrainD) = 5.16479e+51] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed21-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767096e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 8334 points; min(lambda2) = 1.2897e-21. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -3.41923e-17, max(prodCgStrainD) = 1.6571e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete22-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1651 points; min(lambda2) = 0.022612. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 1.89131e-08, max(prodCgStrainD) = 8.8765e+36] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed23-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767101e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: Failure at t=1.767101e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete24-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4566 points; min(lambda2) = 4.3276e-14. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -5.48963e-15, max(prodCgStrainD) = 648379] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete25-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 7832 points; min(lambda2) = 3.3502e-14. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.15832e-16, max(prodCgStrainD) = 1.42802e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete26-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767108e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 128)] 
+
+ day complete27-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767112e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 6498 points; min(lambda2) = 3.0758e-15. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.02617e-16, max(prodCgStrainD) = 2.48892e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete28-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: Failure at t=1.767113e+07.  Unable to meet integration tolerances
+without reducing the step size below the smallest value allowed (5.960464e-08)
+at time t.] 
+[> In ode45 (line 360)
+  In eig_cgStrain_edited>ode45_vector (line 275)
+  In eig_cgStrain_edited (line 90)] 
+[Warning: lambda2 < 1 at 4875 points; min(lambda2) = 1.0879e-15. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 0, max(prodCgStrainD) = 865546] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete29-Nov-2015
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 1718 points; min(lambda2) = 0.020327. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 3.55338e-12, max(prodCgStrainD) = 1.01989e+38] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete, BC failed30-Nov-2015>> >> >> >> >> >> >> >> 

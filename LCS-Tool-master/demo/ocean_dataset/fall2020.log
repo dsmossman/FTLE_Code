@@ -1,0 +1,618 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+                  R2019b (9.7.0.1190202) 64-bit (glnxa64)
+                              August 21, 2019
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+ input parameters successful>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 3663 points; min(lambda2) = 1.1868e-15. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -2.98792e-17, max(prodCgStrainD) = 1.01164e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete01-Oct-2020
+ day complete, note enough data02-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 3615 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.07317e-15, max(prodCgStrainD) = 1.68417e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete03-Oct-2020
+ day complete, note enough data04-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5071 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -9.98169e-16, max(prodCgStrainD) = 1.1198e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete05-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4076 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -2.63977e-14, max(prodCgStrainD) = 753525] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete06-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5045 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -2.28854e-14, max(prodCgStrainD) = 300986] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete07-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5741 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -3.66166e-13, max(prodCgStrainD) = 2.18276e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete08-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4290 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.70308e-17, max(prodCgStrainD) = 350528] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete09-Oct-2020
+ day complete, note enough data10-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4155 points; min(lambda2) = 5.7092e-26. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -6.78617e-14, max(prodCgStrainD) = 535053] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete11-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4857 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -2.34155e-15, max(prodCgStrainD) = 586907] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete12-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5277 points; min(lambda2) = 1.2644e-15. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -7.33079e-17, max(prodCgStrainD) = 2.09169e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete13-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5422 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -8.00836e-17, max(prodCgStrainD) = 3.08918e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete14-Oct-2020
+ day complete, note enough data15-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 3834 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 0, max(prodCgStrainD) = 2.56651e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete16-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 3639 points; min(lambda2) = 1.161e-22. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.22621e-11, max(prodCgStrainD) = 1.9878e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete17-Oct-2020
+ day complete, note enough data18-Oct-2020
+ day complete, note enough data19-Oct-2020
+ day complete, note enough data20-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4416 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.67444e-17, max(prodCgStrainD) = 610822] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete21-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 3995 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -2.28854e-14, max(prodCgStrainD) = 494583] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete22-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4689 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -6.31895e-16, max(prodCgStrainD) = 440096] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete23-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4306 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -9.47842e-16, max(prodCgStrainD) = 1.31271e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete24-Oct-2020
+ day complete, note enough data25-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4429 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.17077e-15, max(prodCgStrainD) = 1.2191e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete26-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4491 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -6.78617e-14, max(prodCgStrainD) = 1.12611e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete27-Oct-2020
+ day complete, note enough data28-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4066 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -3.29326e-17, max(prodCgStrainD) = 134597] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete29-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5852 points; min(lambda2) = 4.9906e-16. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.38237e-15, max(prodCgStrainD) = 1.25815e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete30-Oct-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5469 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -2.50061e-16, max(prodCgStrainD) = 1.31776e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete31-Oct-2020
+ day complete, note enough data01-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4563 points; min(lambda2) = 1.4844e-25. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -3.15947e-16, max(prodCgStrainD) = 1.02224e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete02-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5788 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -6.31895e-16, max(prodCgStrainD) = 2.05357e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete03-Nov-2020
+ day complete, note enough data04-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5013 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.22134e-14, max(prodCgStrainD) = 246179] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete05-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5382 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.17077e-15, max(prodCgStrainD) = 1.28802e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete06-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4988 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -3.15947e-16, max(prodCgStrainD) = 185121] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete07-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4486 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.17077e-15, max(prodCgStrainD) = 373344] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete08-Nov-2020
+ day complete, note enough data09-Nov-2020
+ day complete, note enough data10-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4702 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -6.31895e-16, max(prodCgStrainD) = 115250] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete11-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 3852 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.18938e-14, max(prodCgStrainD) = 1.54964e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete12-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4436 points; min(lambda2) = 3.9554e-12. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -2.83315e-17, max(prodCgStrainD) = 281789] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete13-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5133 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.57799e-17, max(prodCgStrainD) = 1.54128e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete14-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 2880 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -8.29697e-14, max(prodCgStrainD) = 315539] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete15-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5149 points; min(lambda2) = 4.5821e-26. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -6.18915e-14, max(prodCgStrainD) = 1.08726e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete16-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4788 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -4.57707e-14, max(prodCgStrainD) = 882297] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete17-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5170 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -8.22156e-17, max(prodCgStrainD) = 3.12979e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete18-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4150 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -4.52993e-15, max(prodCgStrainD) = 732058] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete19-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5014 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -6.31895e-16, max(prodCgStrainD) = 444121] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete20-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4304 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -3.32698e-16, max(prodCgStrainD) = 533183] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete21-Nov-2020
+ day complete, note enough data22-Nov-2020
+ day complete, note enough data23-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4614 points; min(lambda2) = 3.0229e-20. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -5.94688e-15, max(prodCgStrainD) = 767276] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete24-Nov-2020
+ day complete, note enough data25-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4528 points; min(lambda2) = 4.7577e-18. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.64814e-11, max(prodCgStrainD) = 385788] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete26-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 3630 points; min(lambda2) = 1.8511e-08. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -2.45884e-16, max(prodCgStrainD) = 342291] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete27-Nov-2020
+ day complete, note enough data28-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4027 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -6.78617e-14, max(prodCgStrainD) = 338556] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete29-Nov-2020
+ day complete, note enough data30-Nov-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4311 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -6.18915e-14, max(prodCgStrainD) = 596460] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete01-Dec-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5625 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -6.86561e-14, max(prodCgStrainD) = 485957] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete02-Dec-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5621 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -4.4927e-14, max(prodCgStrainD) = 428643] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete03-Dec-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4648 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.22134e-14, max(prodCgStrainD) = 475374] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete04-Dec-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 6348 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 0, max(prodCgStrainD) = 558194] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete05-Dec-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5591 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -2.47677e-16, max(prodCgStrainD) = 624714] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete06-Dec-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 3921 points; min(lambda2) = 4.5747e-25. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -6.18915e-14, max(prodCgStrainD) = 311899] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete07-Dec-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 6035 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -6.18915e-14, max(prodCgStrainD) = 443351] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete08-Dec-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5765 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.6969e-16, max(prodCgStrainD) = 446600] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete09-Dec-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 5974 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -4.01045e-13, max(prodCgStrainD) = 788408] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete10-Dec-2020
+ day complete, note enough data11-Dec-2020
+ day complete, note enough data12-Dec-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 3323 points; min(lambda2) = 5.261e-07. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = 0, max(prodCgStrainD) = 441286] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete13-Dec-2020
+ day complete, note enough data14-Dec-2020
+ day complete, note enough data15-Dec-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 3536 points; min(lambda2) = 4.3266e-11. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -1.63879e-16, max(prodCgStrainD) = 631797] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete16-Dec-2020
+ day complete, note enough data17-Dec-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4155 points; min(lambda2) = 6.677e-24. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -3.08058e-17, max(prodCgStrainD) = 2.51434e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete18-Dec-2020
+ velocity has been defined[Warning: Unequal grid spacing: (deltaX - deltaY)/min([deltaX,deltaY]) =
+-0.00162. Using deltaX to set auxiliary grid spacing.] 
+[> In eig_cgStrain_edited (line 78)] 
+[Warning: lambda2 < 1 at 4660 points; min(lambda2) = 0. Eigenvalues and
+eigenvectors set to NaN at those points.] 
+[> In eig_cgStrain_edited (line 177)] 
+[Warning: min(prodCgStrainD) = -3.15947e-16, max(prodCgStrainD) = 2.14483e+06] 
+[> In eig_cgStrain_edited (line 184)] 
+
+ day complete19-Dec-2020
+ day complete, note enough data20-Dec-2020
+ day complete, note enough data21-Dec-2020
+ day complete, note enough data22-Dec-2020
+ day complete, note enough data23-Dec-2020
+ day complete, note enough data24-Dec-2020
+ day complete, note enough data25-Dec-2020
+ day complete, note enough data26-Dec-2020
+ day complete, note enough data27-Dec-2020
+ day complete, note enough data28-Dec-2020
+ day complete, note enough data29-Dec-2020
+ day complete, note enough data30-Dec-2020
+ day complete, note enough data31-Dec-2020>> >> >> >> >> >> >> >> 
