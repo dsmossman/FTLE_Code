@@ -69,11 +69,12 @@ uniqueDays = datetime(min(dnum), 'ConvertFrom', 'datenum'):days(1):datetime(max(
 
 k = 1;
 
-for i=datetime(min(dnum), 'ConvertFrom', 'datenum'):...
-        hours(1):...
-        (datetime(max(dnum), 'ConvertFrom', 'datenum')-hours(5)) % for each unit in the timespan of the file (here it's hours)
+for i=uniqueDays(1):days(1):uniqueDays(end) % daily (24 hr) integration
+    %datetime(min(dnum), 'ConvertFrom', 'datenum'):...
+       % hours(1):...
+        % (datetime(max(dnum), 'ConvertFrom', 'datenum')-hours(23)) % for each unit in the timespan of the file (here it's hours)
     
-    date_str = datestr(i);
+    date_str = datetime(i);
     ind = find(uniqueDays == i);
     
     % if sum(hfrcvg(:,:,ind), 'all') < 3000
@@ -88,7 +89,7 @@ for i=datetime(min(dnum), 'ConvertFrom', 'datenum'):...
     % else
     
         T_0 = find(dnum == datenum(date_str));
-        T_1 = T_0+5; %% CHANGE INTEGRATION TIME HERE; right now it is 6 hours
+        T_1 = T_0+23; %% CHANGE INTEGRATION TIME HERE; right now it is 24 hours
         timespan = [Time(T_0), Time(T_1)];
         %%
         indDay = find(dnum >= datenum(date_str) & dnum < datenum(date_str) +1);
@@ -135,7 +136,7 @@ for i=datetime(min(dnum), 'ConvertFrom', 'datenum'):...
             ftle_mab.ftle(:,:,k) = ftle_;
             ftle_mab.time(k) = datenum(date_str);
             k = k+1;
-            str = strcat("Day complete: ", date_str, "\n");
+            str = strcat("Day complete: ", string(date_str), "\n");
             fprintf(str);
 
             % Set up the figure for the first plot
@@ -171,6 +172,6 @@ end
 ftle_mab.domain = domain;
 ftle_mab.resolution = resolution;
 
-fname = strcat('C:\Users\Delphine\Box\FTLE Work\Processed Data\Glider Deployment Data\','MARACOOS_',current_season,'_deployment_',yr,'hourly_FTLE.mat');
+fname = strcat('C:\Users\Delphine\Box\FTLE Work\Processed Data\Glider Deployment Data\','MARACOOS_',current_season,'_deployment_',yr,'_FTLE.mat');
 % fname = strcat('C:\Users\Delphine\Box\FTLE Work\Processed Data\Glider Deployment Data\','MARACOOS_2023-11-13_only_FTLE.mat');
 save(fname,"ftle_mab","current_season","yr")

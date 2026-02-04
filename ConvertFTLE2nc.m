@@ -64,7 +64,7 @@ ftle_mab.ftle = permute(ftle_mab.ftle, [2,1,3]);
 
 %% Create a new NetCDF file
 cd 'C:\Users\Delphine\Box\FTLE Work\Processed Data\Glider Deployment Data\'
-outputFile = strcat('MARACOOS_',current_season,'_deployment_',yr,'hourly_FTLE.nc');
+outputFile = strcat('MARACOOS_',current_season,'_deployment_',yr,'_FTLE.nc');
 % outputFile = strcat('MARACOOS_2023-11-13_only_FTLE.nc');
 
 ncid = netcdf.create(outputFile, 'CLOBBER');
